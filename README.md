@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=f97316,fbbf24,fed7aa,f59e0b&height=280&section=header&text=MOAAZ%20AHMED&fontSize=80&fontColor=ffffff&fontAlignY=45&desc=✦%20Full%20Stack%20Developer%20✦%20Tech%20Entrepreneur%20✦%20Egypt%20🇪🇬&descAlignY=65&descSize=17&animation=twinkling&stroke=fbbf24&strokeWidth=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0,fbbf24,f97316,fbbf24,100&height=300&section=header&text=MOAAZ%20AHMED&fontSize=85&fontColor=fff8e7&fontAlignY=45&desc=✦%20Full%20Stack%20Developer%20✦%20Tech%20Entrepreneur%20✦%20Egypt%20🇪🇬&descAlignY=65&descSize=18&animation=twinkling&stroke=f59e0b&strokeWidth=3" width="100%"/>
 
 <div align="center">
 
@@ -6,11 +6,11 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/🟢_Status-Open%20to%20Work-%23f97316?style=for-the-badge&labelColor=0d1117&color=f97316"/>
+<img src="https://img.shields.io/badge/🟢_Status-Open%20to%20Work-f97316?style=for-the-badge&labelColor=0d1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/📍_Location-Egypt%20🇪🇬-%23fbbf24?style=for-the-badge&labelColor=0d1117&color=fbbf24"/>
+<img src="https://img.shields.io/badge/📍_Location-Egypt%20🇪🇬-fbbf24?style=for-the-badge&labelColor=0d1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/⚡_Response-Within%2024h-%23f59e0b?style=for-the-badge&labelColor=0d1117&color=f59e0b"/>
+<img src="https://img.shields.io/badge/⚡_Response-Within%2024h-f59e0b?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
@@ -153,6 +153,6 @@ const moaaz: Developer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f97316,fbbf24,fed7aa&height=130&section=footer&text=Let's%20build%20something%20legendary%20together%20✦&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%"/>
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0,fbbf24,f97316,fbbf24,100&height=200&section=footer&text=Let's%20build%20something%20legendary%20✦&fontSize=22&fontColor=fff8e7&fontAlignY=55&animation=twinkling&stroke=f59e0b&strokeWidth=2&reversal=true" width="100%"/>
